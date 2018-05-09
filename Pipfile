@@ -7,10 +7,12 @@ name = "pypi"
 
 [dev-packages]
 
+pytest = "*"
 
 
 [packages]
 
+docker = "*"
 
 
 [requires]
