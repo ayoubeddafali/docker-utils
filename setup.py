@@ -17,7 +17,7 @@ setup(
     install_requires=["docker"],
     entry_points={
         'console_scripts': [
-            'hybrd=docker-utils.cli:main'],
+            'docker-utils=dutils.cli:main'],
     }
 )
 
